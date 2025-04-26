@@ -14,5 +14,5 @@ if ( b > a and b > c and b >d ):
 if ( c > b and c > a and c > d ):
   print ( "C is the highest" )
 
-if ( d > b and a > c and d < a ):
+if ( d > b and d > c and d < a ):
   print ( "D is the highest" )
